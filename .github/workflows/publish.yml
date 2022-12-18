@@ -1,0 +1,19 @@
+on:
+  push:
+    branches:
+      - main
+jobs:
+  Publish:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - name: Logseq Publish
+      uses: pengx17/logseq-publish@0.1.7
+    - name: add a nojekyll file
+      run: touch $GITHUB_WORKSPACE/www/.nojekyll
+    - name: Deploy 🚀
+      uses: JamesIves/github-pages-deploy-action@v4
+      with:
+        folder: www
+        clean: true
+        single-commit: true
