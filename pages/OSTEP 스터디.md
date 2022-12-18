@@ -1,0 +1,13 @@
+- 멤버
+	- 아구밍 (리더)
+	- 서인
+	- 종이상자
+	- 곰곰
+	- 씨니하
+	- 오리
+- 자료
+	- [KAIST Operating Systems Courseware](https://oslab.kaist.ac.kr/OSTEPSlides/)
+	- [OSTEP (Korean Version)](https://github.com/remzi-arpacidusseau/ostep-translations/tree/master/korean)
+- 정리
+	- [[OSTEP 스터디 / 01 OS Introduction]]
+	  id:: 639f2605-e112-4c46-b1b6-931a2faeecfa
