@@ -297,4 +297,5 @@
  ;;     ;use Percent-encoding for other invalid characters
  :file/name-format :triple-lowbar
  :journal/page-title-format "yyyy/MM/dd"
+ :publishing/all-pages-public? true
  }
