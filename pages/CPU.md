@@ -1,0 +1,1 @@
+- 중앙 연산 장치 (Central Processing Unit)
