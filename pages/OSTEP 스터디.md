@@ -11,3 +11,5 @@
 - 정리
 	- [[OSTEP 스터디 / 01 OS Introduction]]
 	  id:: 639f2605-e112-4c46-b1b6-931a2faeecfa
+	- [[OSTEP 스터디 / 05 Scheduling: Proportional Share]]
+	-
