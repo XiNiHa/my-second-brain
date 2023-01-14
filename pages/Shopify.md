@@ -1,0 +1,1 @@
+쇼핑몰 솔루션 업체, Headless Storefront [[API]]를 [[GraphQL]]로 제공함

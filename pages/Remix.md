@@ -1,0 +1,3 @@
+- [[React]] 기반 웹 프레임워크
+- [[Cloudflare Workers]] 등의 분산 서버 환경에서 동작할 것을 전제로 만들어짐
+- Nested Routing을 통해 각 라우트 구성요소의 데이터 의존성을 명시하게 하고, 이를 병렬 로딩하고 SSR하여 Request Waterfall을 방지한다.

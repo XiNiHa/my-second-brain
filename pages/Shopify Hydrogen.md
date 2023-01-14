@@ -1,0 +1,3 @@
+- [[Shopify]]의 Storefront API를 활용하여 커스텀 Storefront를 구현할 수 있도록 해 주는 프레임워크
+- [[React Server Components]]와 [[Vite]]를 사용하여 뛰어난 개발 및 프로덕션 성능을 보여 준다
+- 2021-11-15 기준 개발자 프리뷰 단계이다.

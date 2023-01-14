@@ -1,0 +1,2 @@
+- 입력받은 값이 falsy하면 throw하는 `invariant()` 함수를 제공하는 라이브러리 ([npm 링크](https://www.npmjs.com/package/tiny-invariant))
+- [[TypeScript]] 타입 가드로 쓸 수 있는게 ㄹㅈㄷ
